@@ -1,5 +1,5 @@
 <h1 align="center">My profile</h1>
-<h1 align="center">Hi!,I'm Yusin</h1>
+<h1 align="center">Hi!, I'm Yusin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=2000&center=true&width=800&lines=Hi+there+,+I'm+YUSIN2k6;Developer+from+Vietnam;Learning:+Kotlin+%7C+C%23+%7C+Java+%7C+C%2B%2B+%7C+PHP;Want+explore+backend,+tools,+and+cloud!" alt="Typing SVG" />
