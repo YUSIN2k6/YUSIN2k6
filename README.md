@@ -85,6 +85,6 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:longvh2549@gmail.com"><img src="https://img.shields.io/badge/Gmail-longvh2549@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/longvo.huy.71" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:tuanbmt3355@gmail.com"><img src="https://img.shields.io/badge/Gmail-longvh2549@gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.facebook.com/hientuan.nguyen.77/?locale=vi_VN" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" /></a>
 </p>
